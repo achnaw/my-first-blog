@@ -25,7 +25,7 @@ SECRET_KEY = 'y0jda!r$mhp(z8ks7is#*db2746gdu%*!=071e1rsu5*1zt-n0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['achnaw.pythonanywhere.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
